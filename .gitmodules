@@ -1,0 +1,6 @@
+[submodule "cryptator-api"]
+	path = cryptator-api
+	url = https://github.com/BelotFlorent/cryptator-api
+[submodule "cryptator"]
+	path = cryptator
+	url = https://github.com/BelotFlorent/cryptator
